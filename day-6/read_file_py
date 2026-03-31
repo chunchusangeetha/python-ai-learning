@@ -1,0 +1,11 @@
+f = open("demofile.txt")
+print(f.read(5))
+print(f.readline())
+print(f.readline())
+
+f.seek(0) 
+
+data = f.read()
+words = data.split()
+print("Word count:", len(words))
+f.close()
