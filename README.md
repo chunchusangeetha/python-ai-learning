@@ -13,5 +13,14 @@ DAY-3
 DAY-4
 ## FUNCTIONS
 
-DAy-5
+DAY -5
 ## Data Structures(list,tuple,sets,dict) 
+
+DAY-6
+## file handling(write,read,append,delete)
+
+DAY-7
+## oops - class,object,methods
+
+DAY-8
+## oops- inheritance , polymorphism
