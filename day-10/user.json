@@ -1,0 +1,12 @@
+[
+    {
+        "user_name": "string",
+        "user_email": "user@example.com",
+        "user_dob": "2026-04-07"
+    },
+    {
+        "user_name": "Sangeetha",
+        "user_email": "sangeetha@gmail.com",
+        "user_dob": "2026-04-03"
+    }
+]

@@ -1,5 +1,10 @@
 from fastapi import FastAPI
 import json
+from pydantic import BaseModel
+
+class Student(BaseModel):
+    name:str
+    marks:int
 
 app = FastAPI()
 
@@ -23,10 +28,10 @@ def get_students():
     }
 
 @app.post('/students')
-def create_students(student:dict):
+def create_students(student:Student):
     with open(FILE,"r") as f:
         students = json.load(f)
-        students.append(student)
+        students.append(student.dict())
     with open(FILE, "w") as f:
         json.dump(students, f, indent=2)
     return {
@@ -37,13 +42,13 @@ def create_students(student:dict):
     } 
 
 @app.put('/students/{name}')
-def update_students(name:str,updated:dict):
+def update_students(name:str,updated:Student):
     with open(FILE, "r") as f:
         students = json.load(f)
 
     for s in students:
         if s["name"].lower() == name.lower():
-            s["marks"] = updated["marks"]
+            s["marks"] = updated.marks
             with open(FILE ,"w") as f:
                 json.dump(students,f)
             return {
