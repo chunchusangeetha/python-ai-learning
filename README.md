@@ -35,3 +35,9 @@ Phase 2: NumPy & Data Basics
 
 DAY-11
 ## numpy basics
+
+DAY-12
+## NumPy indexing, slicing, matrix access and array modification
+
+DAY-13
+## NumPy vectorized operations, array math, and matrix multiplication
