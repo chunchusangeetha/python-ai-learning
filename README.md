@@ -27,3 +27,11 @@ DAY-8
 
 DAY-9
 ## API(get,post,put,delete) dat - json, test- swagger
+
+DAY-10
+## fastapi, filterQuery, HTTPException, CORSMiddleware
+
+Phase 2: NumPy & Data Basics
+
+DAY-11
+## numpy basics
