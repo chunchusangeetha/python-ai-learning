@@ -41,3 +41,9 @@ DAY-12
 
 DAY-13
 ## NumPy vectorized operations, array math, and matrix multiplication
+
+DAY-14
+## NumPy mini project - Student Marks Data Analyzer
+
+DAY-15
+## Pandas basics, DataFrame inspection and grade calculation using apply
