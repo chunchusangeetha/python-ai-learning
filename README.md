@@ -47,3 +47,6 @@ DAY-14
 
 DAY-15
 ## Pandas basics, DataFrame inspection and grade calculation using apply
+
+DAY-16
+## Pandas filtering, sorting, loc and iloc operations
