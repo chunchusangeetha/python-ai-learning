@@ -56,3 +56,6 @@ DAY-17
 
 DAY-18
 ## groupby() ,aggregation functions (mean, sum, max, min),multiple aggregations,grouping multiple columns,sorting grouped data,extracting insights
+
+DAY-19 
+## pd.merge(),inner, left, right, outer joins,joining datasets,combining tables,real-world dataset handling
