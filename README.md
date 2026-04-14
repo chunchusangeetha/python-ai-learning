@@ -52,4 +52,7 @@ DAY-16
 ## Pandas filtering, sorting, loc and iloc operations
 
 DAY-17
-## Day-17: Data cleaning using Pandas - handling missing values, duplicates, and datatype conversion
+## Data cleaning using Pandas - handling missing values, duplicates, and datatype conversion
+
+DAY-18
+## groupby() ,aggregation functions (mean, sum, max, min),multiple aggregations,grouping multiple columns,sorting grouped data,extracting insights
