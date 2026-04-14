@@ -1,0 +1,21 @@
+order_id,product,category,quantity,price,city,order_date,revenue
+5001,Coffee,Groceries,8,720.4,Chicago,2024-03-23,5763.2
+5002,Eggs,Groceries,8,403.78,Los Angeles,2024-01-22,3230.24
+5003,Mouse,Electronics,4,999.77,Chicago,2024-03-04,3999.08
+5004,Laptop,Electronics,6,13.44,New York,2024-02-18,80.64
+5005,Eggs,Groceries,3,462.04,Houston,2024-03-04,1386.1200000000001
+5006,Keyboard,Electronics,5,731.02,Miami,2024-03-13,3655.1
+5007,Bread,Groceries,4,1130.93,Chicago,2024-01-09,4523.72
+5008,Sofa,Furniture,2,513.9319047619048,Houston,2024-03-11,1027.8638095238096
+5009,Keyboard,Electronics,1,314.24,Houston,2024-01-02,314.24
+5010,Desk,Furniture,4,225.9,Chicago,2024-03-30,903.6
+5020,Bread,Groceries,3,42.56,New York,2024-02-21,127.68
+5011,Desk,Furniture,4,719.49,Houston,2024-03-02,2877.96
+5012,Headphones,Electronics,2,649.93,Chicago,2024-03-29,1299.86
+5013,Laptop,Electronics,1,23.69,Unknown,2024-03-28,23.69
+5014,Monitor,Electronics,8,11.6,Los Angeles,2024-03-21,92.8
+5015,Eggs,Groceries,1,729.12,Chicago,2024-02-10,729.12
+5016,Milk,Unknown,8,542.09,New York,2024-02-17,4336.72
+5017,Apple,Groceries,3,711.6,Los Angeles,2024-02-04,2134.8
+5018,Keyboard,Electronics,5,1166.2,Los Angeles,2024-01-01,5831.0
+5019,Mouse,Electronics,7,926.31,Los Angeles,2024-01-09,6484.17
