@@ -45,6 +45,8 @@ DAY-13
 DAY-14
 ## NumPy mini project - Student Marks Data Analyzer
 
+Phase-3-Pandas & Data Analysis
+
 DAY-15
 ## Pandas basics, DataFrame inspection and grade calculation using apply
 
@@ -61,7 +63,12 @@ DAY-19
 ## pd.merge(),inner, left, right, outer joins,joining datasets,combining tables,real-world dataset handling
 
 DAY-20
-## Day-20: CSV handling, filtering, column creation and saving processed dataset
+##CSV handling, filtering, column creation and saving processed dataset
 
 mini-project 
 ## Sales Data Analysis using Pandas with data cleaning and insights
+
+Phase-4 -ML-learing
+
+DAY-22
+## What ML is ,Types of ML,Linear Regression,Training a model,Making predictions
