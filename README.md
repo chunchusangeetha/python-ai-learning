@@ -75,3 +75,6 @@ DAY-21
 
 DAY-22
 ## Multiple input Linear Regression, train_test_split,re_score,joblib to save model
+
+DAY-23
+## overfitting- to comple,underfitting-too weak,train score mostly same as test scoe do fit,high accuracy
