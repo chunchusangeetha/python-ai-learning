@@ -70,5 +70,8 @@ mini-project
 
 Phase-4 -ML-learing
 
-DAY-22
+DAY-21
 ## What ML is ,Types of ML,Linear Regression,Training a model,Making predictions
+
+DAY-22
+## Multiple input Linear Regression, train_test_split,re_score,joblib to save model
