@@ -78,3 +78,6 @@ DAY-22
 
 DAY-23
 ## overfitting- to comple,underfitting-too weak,train score mostly same as test scoe do fit,high accuracy
+
+DAY-24
+## completed - Feature Scaling (StandardScaler, MinMaxScaler, Normalizer, RobustScaler) with comparison"
