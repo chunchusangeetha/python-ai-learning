@@ -87,3 +87,6 @@ DAY-25
 
 DAY-26
 ## completed - Confusion Matrix, Precision, Recall, Classification Report with scaling improvements"
+
+DAY-27
+## completed - Decision Tree, depth tuning, model comparison with Logistic Regression, visualization"
