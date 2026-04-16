@@ -1,5 +1,6 @@
 # python-ai-learning
 
+## Phase 1: Python Basics
 
 DAY-1
 ## Basics- datatypes,print statements,input,calculator
@@ -11,7 +12,7 @@ DAY-3
 ## Python loops and basics of functions 
 
 DAY-4
-## FUNCTIONS
+## python functions
 
 DAY -5
 ## Data Structures(list,tuple,sets,dict) 
@@ -31,7 +32,7 @@ DAY-9
 DAY-10
 ## fastapi, filterQuery, HTTPException, CORSMiddleware
 
-Phase 2: NumPy & Data Basics
+## Phase 2: NumPy & Data Basics
 
 DAY-11
 ## numpy basics
@@ -45,7 +46,7 @@ DAY-13
 DAY-14
 ## NumPy mini project - Student Marks Data Analyzer
 
-Phase-3-Pandas & Data Analysis
+## Phase-3-Pandas & Data Analysis
 
 DAY-15
 ## Pandas basics, DataFrame inspection and grade calculation using apply
@@ -63,12 +64,12 @@ DAY-19
 ## pd.merge(),inner, left, right, outer joins,joining datasets,combining tables,real-world dataset handling
 
 DAY-20
-##CSV handling, filtering, column creation and saving processed dataset
+## CSV handling, filtering, column creation and saving processed dataset
 
-mini-project 
+## mini-project 
 ## Sales Data Analysis using Pandas with data cleaning and insights
 
-Phase-4 -ML-learing
+## Phase-4 -ML-learing
 
 DAY-21
 ## What ML is ,Types of ML,Linear Regression,Training a model,Making predictions
