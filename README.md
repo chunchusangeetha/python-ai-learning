@@ -81,3 +81,7 @@ DAY-23
 
 DAY-24
 ## completed - Feature Scaling (StandardScaler, MinMaxScaler, Normalizer, RobustScaler) with comparison"
+
+DAY-25
+
+## Classification vs regression, Probability output, Feature impact, Model prediction logic
