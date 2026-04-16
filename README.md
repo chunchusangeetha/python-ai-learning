@@ -84,3 +84,6 @@ DAY-24
 
 DAY-25
 ## Classification vs regression, Probability output, Feature impact, Model prediction logic
+
+DAY-26
+## completed - Confusion Matrix, Precision, Recall, Classification Report with scaling improvements"
