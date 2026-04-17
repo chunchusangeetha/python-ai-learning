@@ -91,3 +91,7 @@ DAY-26
 
 DAY-27
 ## completed - Decision Tree, depth tuning, model comparison with Logistic Regression, visualization"
+
+DAY-28
+
+## completed - RandomForestClassifier model and compare it with DecisionTreeClassifier 
