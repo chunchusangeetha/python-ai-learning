@@ -100,3 +100,6 @@ DAY-29
 
 DAY-30
 ## Implemented SVM (Linear & RBF) + Hyperparameter tuning using GridSearchCV"
+
+DAY-31
+## Model Comparison (SVM vs RandomForest vs KNN)
