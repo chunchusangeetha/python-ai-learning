@@ -95,5 +95,8 @@ DAY-27
 DAY-28
 ## completed - RandomForestClassifier model and compare it with DecisionTreeClassifier 
 
-DAY-30
+DAY-29
 ## completed - RandomForestClassifier model with feature_selection Apply StandardScaler to Train KNN 
+
+DAY-30
+## Implemented SVM (Linear & RBF) + Hyperparameter tuning using GridSearchCV"
