@@ -5,7 +5,7 @@ df = pd.read_csv("house-data.csv")
 
 X = df[["Square_Feet","Bedrooms","Age"]]
 
-y = df[["Price"]]
+# y = df[["Price"]]
 
 model = LinearRegression()
 #tarin model
